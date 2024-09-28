@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628528575 source:c:\users\giard\onedrive\desktop\codeblokki\esercizi17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

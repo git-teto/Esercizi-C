@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628764304 source:c:\users\giard\onedrive\desktop\codeblokki\tuttofile2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

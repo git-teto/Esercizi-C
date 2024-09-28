@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628583909 source:c:\users\giard\onedrive\desktop\codeblokki\stringhe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

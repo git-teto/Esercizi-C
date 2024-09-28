@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628586384 source:c:\users\giard\onedrive\desktop\codeblokki\sottostringa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
