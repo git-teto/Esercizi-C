@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1443720992 source:c:\users\teto\desktop\scuola teto\code blocche\leggi 10 numeri e non stampa lo stesso numero\main.c
+	<stdio.h>
+	<stdlib.h>
+

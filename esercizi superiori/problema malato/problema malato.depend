@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1424430449 source:c:\users\giardina.stefano\desktop\problema malato\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1424431000 source:g:\problema malato\main.c
+	<stdio.h>
+	<stdlib.h>
+
